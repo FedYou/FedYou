@@ -1,3 +1,4 @@
+<img src="./stars.png">
 <h1 align="center">:zap: FedYou :musical_note: </h1>
 <p align="center">
   <a href="">
