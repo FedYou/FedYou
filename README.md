@@ -1,4 +1,4 @@
-<img  align="center" src="./stars.png" style="position:absolute" >
+<img  align="center" src="./stars-53px.png" style="position:absolute" >
 
 <h1 align="center">:zap: FedYou :musical_note: </h1>
 <p align="center">
