@@ -1,4 +1,5 @@
-<img src="./stars.png">
+<img  align="center" src="./stars.png" style="position:absolute" >
+
 <h1 align="center">:zap: FedYou :musical_note: </h1>
 <p align="center">
   <a href="">
@@ -7,7 +8,7 @@
 </p>
 
 
-<h2 align="center">🔗 Links</h1>
+<p align="center">🔗 Links</p>
 <p align="center">
 <a href="https://instagram.com/fedyouu">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -18,4 +19,5 @@
    <img src="https://img.shields.io/badge/StudiosYouBedrock-CD5600?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
+<img  align="center" src="./stars.png" style="position:absolute" >
 
