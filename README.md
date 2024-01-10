@@ -19,5 +19,5 @@
    <img src="https://img.shields.io/badge/StudiosYouBedrock-CD5600?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-<img  align="center" src="./stars.png" style="position:absolute" >
+<img  align="center" src="./stars-53px.png" style="position:absolute" >
 
