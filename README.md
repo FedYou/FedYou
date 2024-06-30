@@ -17,4 +17,10 @@
 </a>
 </p>
 <img  align="center" src="./stars-53px.png" style="position:absolute" >
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedyou&langs_count=8&layout=compact&theme=tokyonight">
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fedyou&show_icons=true&theme=tokyonight">
+</p>
+<img  align="center" src="./stars-53px.png" style="position:absolute" >
