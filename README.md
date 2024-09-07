@@ -6,9 +6,6 @@
    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs" />
   </a>
 </p>
-
-
-<p align="center">🔗 Links</p>
 <p align="center">
 </p>
 <img  align="center" src="./stars-53px.png" style="position:absolute" >
