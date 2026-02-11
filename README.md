@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img align="left" src="https://stats-fedyou.vercel.app/api/top-langs/?username=fedyou&langs_count=8&layout=compact&show_icons=true&bg_color=1d2021&title_color=ebdbb2&icon_color=e5b02e&text_color=83a598&hide_border=true&hide=html,astro,css,rust&hide_progress=true&custom_title=Languages">
+  <img align="left" src="https://stats-fedyou.vercel.app/api/top-langs/?username=fedyou&langs_count=8&layout=compact&show_icons=true&bg_color=1d2021&title_color=ebdbb2&icon_color=e5b02e&text_color=83a598&hide_border=true&hide=html,astro,css&hide_progress=true&custom_title=Languages">
   <img align="right"  src="https://stats-fedyou.vercel.app/api?username=fedyou&include_all_commits=true&show_icons=true&bg_color=1d2021&title_color=ebdbb2&icon_color=e5b02e&text_color=83a598&hide_border=true&rank_icon=github&custom_title=FedYou&layout=compact">
 </div>
 
